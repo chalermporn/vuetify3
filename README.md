@@ -1,10 +1,12 @@
-# vuetify3
-
+# Vuetify 3
+![alt text](./ScreenShot.png)
 ## Project setup
 ```
-yarn install
+git clone https://github.com/chalermporn/vuetify3.git
 ```
-
+```
+cd vuetify3 && yarn install
+```
 ### Compiles and hot-reloads for development
 ```
 yarn run serve
